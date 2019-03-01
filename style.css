@@ -1,0 +1,160 @@
+.cuerpo { 
+ 
+}
+
+body{
+	margin:0 auto;
+	text-align: center;
+	font-family: "Helvetica Neue", "raleway";
+	font-size: 14px;
+	text-align: center;
+}
+
+.cuerpo{
+	height: 100%;
+	width: 400px;
+	margin: 0 auto;
+}
+
+.twitter-share-button{
+	position: absolute;
+	top: 0.5em;
+	right: 4em;
+	margin-right: -70px;
+}
+
+h1{
+	margin-bottom: 0px;
+}
+
+#ahorcado{
+	box-shadow: 0px 0px 2px #1F1F1F;
+	display: block;
+	margin: 0 auto;
+}
+
+
+#contenedor{
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	max-width: 400px;
+	max-height: 400px;
+	margin-bottom: 40px !important;
+}
+
+p{
+
+}
+
+#twitter{
+	text-align: right;
+	z-index: 10;
+	color: #0080FF;
+}
+
+#twitter:visited,#twitter:link{
+	color: #0080FF;
+}	
+
+#twitter:hover{
+	color: #7DBEFF;
+}
+
+#ganadas{
+	background-color: #0080FF;
+	border-radius: 6px 0 0 0;	
+	color: white;
+	font-size: 1.4em;
+	left: -1.5em;
+	padding-left: 0.2em;
+	padding-right: 1em;
+	position:absolute;
+	top: 2em;
+	z-index: -1;
+}
+
+#perdidas{
+	background-color: #FF0000;;
+	border-radius: 0 0 0 6px;
+	color: white;
+	font-size: 1.4em;
+	left: -1.5em;
+	padding-left: 0.2em;
+	padding-right: 1em;
+	position:absolute;
+	top: 3em;
+	z-index: -1;
+}
+
+#puestas{
+	background-color: #0080FF;
+	border-radius: 0 4px 4px 0;
+	left: 400px;
+	margin-top: 0px;
+	padding-left: 0;
+	position: absolute;
+	top: 3em;
+}
+
+#puestas li{
+	list-style: none;
+	color: #FFFFFF;
+	font-size: 1.2em;
+	text-align: center;
+	margin: 2px;
+	padding-left: 3px;
+
+}
+
+
+#letra{
+	width: 40px;
+	display: inline-block;
+	text-align: center;
+	height: 18px;
+	margin-top: 2px;
+	padding: 7px 8px;
+	font-size: 17px;
+	line-height: 1.42857143;
+	color: #555555;
+	background-color: #ffffff;
+	background-image: none;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	vertical-align: middle;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+#texto{
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: bold;
+	color: #31708f;
+}
+
+#btn{
+	color: #ffffff;
+	background-color: #428bca;
+	border-color: #357ebd;
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 6px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	border-radius: 4px;
+	vertical-align: middle;
+}
+
+
+form{
+	margin-top: 6px;
+}
