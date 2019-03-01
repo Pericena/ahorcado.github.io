@@ -1,0 +1,165 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/img/cover.png
+SHA1-Digest: LGUsYr6pjqwNJruXbNeb6lUfD+g=
+
+Name: res/drawable-xhdpi/exit.png
+SHA1-Digest: XvtGQm597EJdb2RVFd4nD0jy7RE=
+
+Name: assets/img/piernader.png
+SHA1-Digest: ATQw2vsnmkdGYkvblLDUn8e3pBA=
+
+Name: res/drawable-xxxhdpi/ic_share_white_24dp.png
+SHA1-Digest: cp/AWjVgLovAozlpCsrQ5O25tbM=
+
+Name: assets/img/brazoizq.png
+SHA1-Digest: Zkka9f/KUe7T+JuVM32e2E3RNXs=
+
+Name: assets/Sonidos/FoxSynergyChaos Lily.mp3
+SHA1-Digest: EHdUYSlHUD21nPaJjTICnJ7BVt0=
+
+Name: assets/img/contento.png
+SHA1-Digest: 8Td8IMMCiQL6ncCrDwVsXhlRRnQ=
+
+Name: assets/README.md
+SHA1-Digest: NX7r1VVHA+sZZA4aigpnzgI1oXE=
+
+Name: res/drawable/wheel.png
+SHA1-Digest: PCywq2YuRTtc57yppQhIUEC4Lx0=
+
+Name: assets/params.json
+SHA1-Digest: /Ura9vbzoHsFFkUsVPdL7iLDTgg=
+
+Name: res/drawable-mdpi/ic_share_white_24dp.png
+SHA1-Digest: GWn66KXdnKlzciaT+EMSj0mK8Q0=
+
+Name: assets/img/cabeza.png
+SHA1-Digest: f9BbMgFQDC8VqrchW9uciEMCEkU=
+
+Name: assets/Sonidos/skweak2.ogg
+SHA1-Digest: EoYiU6FSWLLvywWO0BKNGDVNUq4=
+
+Name: assets/img/arbol.png
+SHA1-Digest: wXvnpV7NrtW00Bl7+O10YOqXojg=
+
+Name: assets/img/fondo.png
+SHA1-Digest: oyIpyq4Xtw8uX5j3Tzqdg8cZbyc=
+
+Name: res/drawable-mdpi/exit.png
+SHA1-Digest: U2ZB+Lj6bRKeJZf+ex4IFdTPkL8=
+
+Name: assets/Sonidos/style.css
+SHA1-Digest: p9X2IbxCd/Ux3G2W5APcn4k3SbU=
+
+Name: assets/img/brazoder.png
+SHA1-Digest: GB2svXg4erIsP+8eVGphpdytOgQ=
+
+Name: assets/img/bg.jpg
+SHA1-Digest: bu94AUrr6tKDMEuBlLNBqCnJ5Nk=
+
+Name: res/drawable-hdpi/about.png
+SHA1-Digest: l1pyObJyFrdrYXu/+Y/yGe5FT0A=
+
+Name: resources.arsc
+SHA1-Digest: My5BpAFtgPl60pFbmVsHpH6gPD4=
+
+Name: res/drawable-mdpi/about.png
+SHA1-Digest: 5s8SpZE3Zqs6hJatW1W5mT5UsmQ=
+
+Name: assets/index.html
+SHA1-Digest: xeyzwao3qp+eQDCsNZIvBE/wFeM=
+
+Name: res/drawable-hdpi/exit.png
+SHA1-Digest: 8hBPHsFOjkVmQmWGI0BMzfalUSE=
+
+Name: assets/codigo.js
+SHA1-Digest: 0CYy0kTYP5PBZPsCcfAXzYcyoxg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9enK3ZaxU/vSZvv+EPm0k73uP+s=
+
+Name: assets/img/cabezamuerta.png
+SHA1-Digest: 5TA3nmrAnADBKj2rV1/MC8D0Dmo=
+
+Name: assets/img/cover.jpg
+SHA1-Digest: mp9+XWv/UyCWZAcj3qODPU5HsDw=
+
+Name: res/drawable-xxhdpi/ic_share_white_24dp.png
+SHA1-Digest: HdZfI/iWdJGDzbl/i65v2RJVlh4=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: IbQ+8m1C4W1I6JuChyNgeknAjzI=
+
+Name: assets/Sonidos/gruntsound.wav
+SHA1-Digest: xSyaw2bhqht1G6EBIzhybea+PT4=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: uIrZAMBYDOaqcMxA/e544gGmtPI=
+
+Name: res/drawable-xxhdpi/exit.png
+SHA1-Digest: eDlqejXkiOY0JROjimpbcfoCdPo=
+
+Name: res/drawable-xxxhdpi/exit.png
+SHA1-Digest: 18nwHQGBijBmJvLFOK9F0wxncY4=
+
+Name: assets/Sonidos/skweak3.ogg
+SHA1-Digest: jgUbbefwbf083AV1hVDxQoMB2PY=
+
+Name: assets/img/favicon.ico
+SHA1-Digest: Skch/SGcPMT88O4ffkdl/ttwNqg=
+
+Name: res/drawable-xxxhdpi/about.png
+SHA1-Digest: aLoiPIMcSVGORsnE/hemcYBdALM=
+
+Name: assets/img/contento grande.png
+SHA1-Digest: z+bJFaM45M+VIVVI3C89xEWfmd8=
+
+Name: assets/style.css
+SHA1-Digest: 077WbfYLhXxGhcyvSG92AkZ20b8=
+
+Name: res/drawable/splash.png
+SHA1-Digest: +k6uPFwD0sHp0o+HYar2OFd/bCE=
+
+Name: assets/404r.html
+SHA1-Digest: QxUmyXaegJIYnHHKjmiovP9nFV8=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: CtNMpEAYOelQsoKoHOygf85KrSc=
+
+Name: res/drawable-xxhdpi/about.png
+SHA1-Digest: 3O9WkJ4v0p+bzEw3E3ObpO5HN8A=
+
+Name: res/layout/spinr.xml
+SHA1-Digest: PVRCYaBHgpRaVrIfurdHJ44iP6A=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: aKKSFpwzWt39FO0XSMrCLCn8B7w=
+
+Name: res/drawable-hdpi/ic_share_white_24dp.png
+SHA1-Digest: ybluSnaq4RHG8k/3TLas6EvlmJc=
+
+Name: assets/img/cuerpo.png
+SHA1-Digest: H5zy9j/u3szoVPygFjwpWyTP9PU=
+
+Name: assets/Sonidos/index.html
+SHA1-Digest: xeyzwao3qp+eQDCsNZIvBE/wFeM=
+
+Name: res/drawable-xhdpi/ic_share_white_24dp.png
+SHA1-Digest: 7ePl85z+sGi5886ePamT9N4Bc78=
+
+Name: assets/img/piernaizq.png
+SHA1-Digest: 5zrQyOCle6j0+nTiTmEiMP6xsYA=
+
+Name: assets/indexs.html
+SHA1-Digest: 2bszWtGxe8VlZ5SV1As23o1kTvY=
+
+Name: res/drawable-xhdpi/about.png
+SHA1-Digest: GRAsvgnNV6hqJ7JpCgo/0m4rorc=
+
+Name: assets/Sonidos/cut_grunt2.wav
+SHA1-Digest: vyEeCw0HyyC8arvcphgGPxiLzyk=
+
+Name: classes.dex
+SHA1-Digest: L+6KKvYIocdWK5fM+TKB+ovBSPo=
+

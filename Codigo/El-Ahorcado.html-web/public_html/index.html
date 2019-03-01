@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Juega El Ahorcado</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="codigo.js"></script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+	
+	<meta name="viewport" content="width=device-width, maximum-scale=0.6, minimum-scale=0.2">
+	<meta name="keyword" content="Juega el ahorcado, ahorcado en javascript, ahorcado en canvas, canvas, javascript, html5, juego, ahorcado">
+	<meta name="description" content="Juego de El Ahorcado usando HTML5, Javascript, Canvas, CSS3. Muy entretenido conrepositorio en gihub" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="Robots" content="all" >
+	<link rel="author" href="https://lpericena.blogspot.com/"/>
+
+	<meta content="100001141421375" name="fb:admins" />
+	<meta property="og:title" content="El ahorcado hecho en javascript - @morenodaryl" />
+	<meta property="og:url" content="http://morenodaryl.github.io/El-Ahorcado-JS" />
+	<meta property="og:description" content="Juego de El Ahorcado hecho en javascript, hechale un vistaso, te vas a entretener :D"/>
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://morenodaryl.github.io/El-Ahorcado-JS/img/cover.png" />
+
+	<meta name="twitter:card" content="photo">
+	<meta name="twitter:site" content="@morenodaryl">
+	<meta name="twitter:creator" content="@morenodaryl">
+	<meta name="twitter:title" content="El ahorcado en javascript y canvas">
+	<meta name="twitter:image:src" content="http://morenodaryl.github.io/El-Ahorcado-JS/img/cover.jpg">
+	<meta name="twitter:domain" content="http://morenodaryl.github.io/El-Ahorcado-JS">
+	<meta name="twitter:app:name:iphone" content="">
+	<meta name="twitter:app:name:ipad" content="">
+	<meta name="twitter:app:name:googleplay" content="">
+	<meta name="twitter:app:url:iphone" content="">
+	<meta name="twitter:app:url:ipad" content="">
+	<meta name="twitter:app:url:googleplay" content="">
+	<meta name="twitter:app:id:iphone" content="">
+	<meta name="twitter:app:id:ipad" content="">
+	<meta name="twitter:app:id:googleplay" content="">
+
+</head>
+<body>
+	<div class='cuerpo'>
+	<h1 class="">Adivina el Ahorcado</h1>
+	
+	<div id="contenedor">
+		<ul id="puestas">
+			
+		</ul>
+			<span id="ganadas">0</span>
+			<span id="perdidas">0</span>
+
+
+
+		<canvas id='ahorcado' width = '400' height = '400' >
+		
+		</canvas>	
+	</div>
+	<form id="formulario">
+		<label for="letra"  class="text-info" id="texto">Elige una letra</label>
+		<input type='text' id='letra' autocomplete="off" class='form-control' maxlength='1'/>
+		<input type='submit' id='btn' class='btn btn-primary'value='Boom'/>
+
+
+	</form>
+	
+	<hr>
+
+
+</body>
+</html>
