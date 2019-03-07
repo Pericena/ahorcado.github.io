@@ -1,16 +1,19 @@
 # El ahorcado
-```
+[![](https://1.bp.blogspot.com/-N8Moenf3i7w/XD4Ps86Ig0I/AAAAAAAANJk/wH5puR99wnwB96xNDWPf6Sm-d74H0XXxgCLcBGAs/s200/splash.png)](https://www.lpericena.tk/2019/01/juega-el-ahorcado-con-javascripthtmlcss.html)
+
 - Es un juego para toda la familia 
 - https://pericena.github.io/ahorcado.github.io/
-```
+
+
+
 - MAS INFORMACIÓN https://lpericena.blogspot.com/2019/01/juega-el-ahorcado-con-javascripthtmlcss.html
 
-## Deployment 📦
+## Deployment
 - LICENSE
 - Permisos
 * Uso comercial
-* Distribución
-* Modificación
+* DistribuciÃ³n
+* ModificaciÃ³n
 * Uso de patentes
 * Uso privado
 - Condiciones	Limitaciones
@@ -19,56 +22,56 @@
 *  Misma licencia
 *  Cambios de estado
 *  Responsabilidad
-*  Garantía
+*  GarantÃ­a
 
-## Construido con 🛠�?* [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
+## Construido con [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
 
-## Contribuyendo 🖇�?
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/AdobeHack) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+## Contribuyendo 
+Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/AdobeHack) para detalles de nuestro cÃ³digo de conducta, y el proceso para enviarnos pull requests.
 
-## Versionado 📌
+## Versionado
 
 Usamos [version](https://github.com/Pericena/AdobeHack/blob/master/version.txt) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Pericena/AdobeHack/tags).
-## Autores ✒️
+## Autores
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Luishiño Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
+* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/AdobeHack/contributors) quíenes han participado en este proyecto. 
+TambiÃ©n puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/AdobeHack/contributors) quÃ­enes han participado en este proyecto. 
 
-## Licencia 📄
+## Licencia ðŸ“„
 
-Este proyecto está bajo la Licencia (Licencia pública general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Expresiones de Gratitud ðŸŽ
 
-* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales 📢
+* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
 Sigueme en las redes Sociales:
-- 🌎Blogger          https://lpericena.blogspot.com/
-- 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- 📸 pinterest        https://es.pinterest.com/lushiopericena/
-- 🐤 twitter             https://twitter.com/LPericena
-- 👦 linkedin         https://www.linkedin.com/in/lpericena/
-- 👍 facebook       https://www.facebook.com/profile.php?id=100009309755063
-- 👍 pagina facebook  https://www.facebook.com/lpericena
-- 🎮 sitio web        https://pericena.wordpress.com/
+- ðŸŒŽBlogger          https://lpericena.blogspot.com/
+- ðŸ’¡ Github            https://github.com/Pericena
+- ðŸŽ¬ youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+- ðŸ“¸ pinterest        https://es.pinterest.com/lushiopericena/
+- ðŸ¤ twitter             https://twitter.com/LPericena
+- ðŸ‘¦ linkedin         https://www.linkedin.com/in/lpericena/
+- ðŸ‘ facebook       https://www.facebook.com/profile.php?id=100009309755063
+- ðŸ‘ pagina facebook  https://www.facebook.com/lpericena
+- ðŸŽ® sitio web        https://pericena.wordpress.com/
 - vimeo         https://vimeo.com/lpericena
-- 📷 instagram      https://www.instagram.com/lpericena/
-- 🎁 remote      https://remote.com/luishinopericena-choque
-- �?google+   https://plus.google.com/u/0/114054031405340478901
-- 🚀 kiwi       https://kiwi.qa/LuishinoC
-- 📅 App    https://apps.facebook.com/167466933725219
-- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- �?teachlr    https://teachlr.com/lpericena
-- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- 📧 ask          https://ask.fm/Lpericena
-- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- 📡 wix https://lpericena.wixsite.com/curriculumvitae
+- ðŸ“· instagram      https://www.instagram.com/lpericena/
+- ðŸŽ remote      https://remote.com/luishinopericena-choque
+- âš?google+   https://plus.google.com/u/0/114054031405340478901
+- ðŸš€ kiwi       https://kiwi.qa/LuishinoC
+- ðŸ“… App    https://apps.facebook.com/167466933725219
+- ðŸ‘» Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
+- ðŸŽ§ socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
+- ãƒ?teachlr    https://teachlr.com/lpericena
+- ðŸ“–  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
+- ðŸ“§ ask          https://ask.fm/Lpericena
+- ðŸ’» stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
+- ðŸ“¡ wix https://lpericena.wixsite.com/curriculumvitae
 
-* Gracias  🤓.
+* Gracias  ðŸ¤“.
 
 ---
-⌨️ Por [Pericena](https://github.com/Pericena) 😊
+âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
